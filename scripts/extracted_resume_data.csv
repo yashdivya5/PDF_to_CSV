@@ -1,0 +1,78 @@
+name,email,phone,address,linkedin,github,website,summary,education,skills,experience,certifications,projects,languages,achievements,interests,references
+THE NATIONAL INSTITUTE,,7992246542,,,,,,"THE NATIONAL INSTITUTE
+OF ENGINEERING
+B.E in Computer Science
+Dec 22 - Presen t | My sore, K arna tak a
+BRADFORD INTERNATIONAL
+SCHOOL
+12th
+J ul y 2021| P a tna, India
+LINKS
+Github: yashdivya
+LinkedIn: yashdivya
+Twitter: @YashDivya3","PROGRAMMING
+•C++
+•Python
+•Numpy
+•Pandas
+•Java
+•SQL
+•HTML5
+•CSS
+TECHNICAL SKILLS
+•Machine Learning (Regression,
+Classification, Clustering)
+•Deep Learning (CNN, RNN,
+Transformers)
+•Software Development
+•Object-Oriented Programming
+•Git
+•Data Structures
+•Operating System
+•Networks Concept
+•Database Concepts
+•Docker
+•Kubernetes
+•FigmaEXPERIENCE
+MICROSOFT LEARN STUDENT AMBASSADOR | Beta
+No v 23 - Presen t | My sore, K arna tak a
+•Organized andhosted aglobal event focused onMachine learning covering
+25+topics.
+•Engaged withadiverse audience ofover40active participants, promoting
+learning andcollaboration within thetechcommunity.
+INTERN AT ADARTH | Machine Learnin g Intern
+Ma y 24 - Sept 24 | My sore, K arna tak a
+•Built ML-driven predictive models forOOH adcampaigns, cutting costs by75%
+andboosting ROIthrough optimized placement, timing, andcontent
+recommendations.
+OWASP NIE STUDENT CHAPTER | Tech Core
+Apr 2024 - Presen t | My sore, K arna tak a
+•Hosted over2techevents andworkshops, focusing oncommand lineandLinux
+commands.",,,"•Advanced Object Detection forAutonomous Vehicles
+•Predicting Podcast Listening Time
+•Linux-based Server
+ADVANCEDOBJECTDETECTIONFORAUTONOMOUSVEHICLES
+•Achieved highaccuracy inreal-time object detection for
+pedestrians, vehicles, traffic signs, andobstacles, ensuring safety
+andreliability forautonomous vehicles.
+•Designed tohandle liveprocessing withminimal latency,
+adaptable todiverse conditions likevarying weather andcrowded
+urban environments.
+•Selected asafinalist fortheQualcomm VisionX Hackathon, this
+project isshowcased atTechfest IITBombay inDecember 2024.
+Weareexcited topresent ourinnovative solution atthis
+renowned event, highlighting itspotential toredefine autonomous
+vehicle safety.
+PREDICTING PODCAST LISTENING TIME
+•Built amachine learning pipeline topredict podcast listening time
+using tabular data.
+•Applied feature engineering, model selection, and
+hyperparameter tuning tominimize RMSE.
+•Achieved atop5%ranking among global participants onKaggle
+LINUX-BASED SERVER
+•ACTFserver with16levels, where each level’s password is
+hidden intheprevious one,withclues provided through acustom
+storyline toguide participants.
+•Designed foraclubevent, Managed secure access and
+permissions foreach challenge level, facilitating userlogin viaSSH
+onanUbuntu server.",,,,
